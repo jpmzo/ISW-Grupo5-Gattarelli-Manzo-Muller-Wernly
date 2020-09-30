@@ -14,10 +14,12 @@
 ```
 a) Realizar una modificación y publicarla (Push)
 ```
+Primer commit: https://github.com/jpmzo/ISW-Grupo5-Gattarelli-Manzo-Muller-Wernly/commit/6df43dee8cf4ef80db14a4e4097735344381d67e
 
 ```
 b) ¿Cómo hacemos para no subir cambios de configuraciones locales? Configurar el repositorio para ignorar estos archivos.
 ```
+Utilizamos el archivo .gitignore para que no existan cambios en configuraciones locales. Dependiendo el _**nombre de carpeta**_ a ignorar, o _**.nombre de carpeta**_ para los archivos que contienen ésta carpeta, o _** *.para carpetas recursivas **_ con archivos que desees ignorar
 
 ```
 c) Crear un nuevo branch para Release 1
