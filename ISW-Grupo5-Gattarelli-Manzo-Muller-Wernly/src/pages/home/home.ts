@@ -37,7 +37,7 @@ export class HomePage {
 
     animal.reproduciendo = true;
 
-    this.audioTiempo = setTimeout( ()=> animal.reproduciendo = false, animal.duracion * 2000);
+    this.audioTiempo = setTimeout( ()=> animal.reproduciendo = false, animal.duracion * 5000);
 
   }
 
